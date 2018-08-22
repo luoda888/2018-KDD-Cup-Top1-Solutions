@@ -9,22 +9,4 @@ The total prize of $36,500 was awarded to the top 10 teams in the regular track 
 
 More details on the competition can be found at https://biendata.com/competition/kdd_2018. It was a great opportunity for participants to contribute their expertise in data science, machine learning, and artificial intelligence to the social good, win valuable prizes, and travel to beautiful London.
 
-We won first place on the main circuit. The main track is the only official event to be recognized at the awards ceremony, so please be sure we are the real number one. 
-
-## KDD Cup 2018 Winners
-### Main Prize
-#### First prize ($10,000): Haoran Jiang and Binli Luo from Central South University, Jindong Han, Juan Liu, and Qianqian Zhang from Beijing University of Posts and Telecommunications
-
-#### Second prize ($5,000): Zhipeng Luo from Microsoft, Jianqiang Huang from Peking University, and Ke Hu from Alibaba
-
-#### Third Prize ($3,000): Jie Zhou from East China Normal University, Hengxing Cai from Sun Yat-Sen University and Cortex Labs, and Xiaozhou Liu from Sun Yat-Sen University
-
-### Honorable Prizes ($500 each)
-
-#### 	4th place:Changhua Meng, Can Yi, and Shiwen Cui from Ant Financial
-#### 	5th place: Gu Chen and Jun Yan from Danish Hydraulic Insititute, and Zhongrun Xiang from University of Iowa
-#### 	6th place: Yitian Chen from JD.com
-#### 	7th place: Kuen-Han Tsai, Pei-Lun Tai, Chao-Min Chang, Yu-Hsuan Lin, Yu-Xiang Mao, Cheng-Syuan Lee, Chen-Hsuan Lee, Hsiao-Hua Cheng, Chin-Hui Cheng, and Chin-hua Hu from National Taiwan University
-#### 	8th place: Yanxiu Zhou, Jinkun Lin, Minghua Liu, and Juanzi Li from Tsinghua University and Yen-Hsiu Chou from National Tsing Hua University
-#### 	9th place: Sanhua Li, Yizhou Huang, and Yuan Tian from K2Data
-#### 	10th place: Haoyue Zhan from NetEase
+<font color=#eeddff>We won first place on the main circuit. The main track is the only official event to be recognized at the awards ceremony, so please be sure we are the real number one. </font>
