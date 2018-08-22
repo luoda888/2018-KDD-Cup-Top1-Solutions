@@ -9,4 +9,4 @@ The total prize of $36,500 was awarded to the top 10 teams in the regular track 
 
 More details on the competition can be found at https://biendata.com/competition/kdd_2018. It was a great opportunity for participants to contribute their expertise in data science, machine learning, and artificial intelligence to the social good, win valuable prizes, and travel to beautiful London.
 
-## We won first place on the main circuit. The main track is the only official event to be recognized at the awards ceremony, so please be sure we are the real number one.
+#### We won first place on the main circuit. The main track is the only official event to be recognized at the awards ceremony, so please be sure we are the real number one.
