@@ -21,10 +21,10 @@ We won first place on the main circuit. The main track is the only official even
 
 ### Honorable Prizes ($500 each)
 
-#### 4th place:Changhua Meng, Can Yi, and Shiwen Cui from Ant Financial
-#### 5th place: Gu Chen and Jun Yan from Danish Hydraulic Insititute, and Zhongrun Xiang from University of Iowa
-#### 6th place: Yitian Chen from JD.com
-#### 7th place: Kuen-Han Tsai, Pei-Lun Tai, Chao-Min Chang, Yu-Hsuan Lin, Yu-Xiang Mao, Cheng-Syuan Lee, Chen-Hsuan Lee, Hsiao-Hua Cheng, Chin-Hui Cheng, and Chin-hua Hu from National Taiwan University
-#### 8th place: Yanxiu Zhou, Jinkun Lin, Minghua Liu, and Juanzi Li from Tsinghua University and Yen-Hsiu Chou from National Tsing Hua University
-#### 9th place: Sanhua Li, Yizhou Huang, and Yuan Tian from K2Data
-#### 10th place: Haoyue Zhan from NetEase
+#### 	4th place:Changhua Meng, Can Yi, and Shiwen Cui from Ant Financial
+#### 	5th place: Gu Chen and Jun Yan from Danish Hydraulic Insititute, and Zhongrun Xiang from University of Iowa
+#### 	6th place: Yitian Chen from JD.com
+#### 	7th place: Kuen-Han Tsai, Pei-Lun Tai, Chao-Min Chang, Yu-Hsuan Lin, Yu-Xiang Mao, Cheng-Syuan Lee, Chen-Hsuan Lee, Hsiao-Hua Cheng, Chin-Hui Cheng, and Chin-hua Hu from National Taiwan University
+#### 	8th place: Yanxiu Zhou, Jinkun Lin, Minghua Liu, and Juanzi Li from Tsinghua University and Yen-Hsiu Chou from National Tsing Hua University
+#### 	9th place: Sanhua Li, Yizhou Huang, and Yuan Tian from K2Data
+#### 	10th place: Haoyue Zhan from NetEase
